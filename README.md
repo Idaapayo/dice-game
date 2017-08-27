@@ -5,7 +5,6 @@ This is a really exciting game where one can either take greater risks and get m
 
 Description
 
-
 _Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold" or end their turn:
 If the player rolls a 1, they score nothing and it becomes the next player's turn.
 If the player rolls any other number, it is added to their turn total and the player's turn continues.
@@ -15,17 +14,13 @@ Setup/Installation Requirements
 
 Clone this repository at:
 
-
 https://github.com/Idaapayo/dice-game
-
 Move into the project folder
-
 Open index.html in the browser of your choice
 
 Specifications
 
 Assigns player names and starting score of 0 into object.
-
 Example Input: Ida
 Example Output: Player 1 {Ida, 0}
 Generate random, whole number between 1-6 when prompted
@@ -57,17 +52,14 @@ Example Output:
 
 Support and contact details
 
-
 For help, contact:
 idaapayo@gmail.com
 
 Technologies Used
 
-
 This application uses HTML, CSS, JavaScript & jQuery, Bootstrap
 
 Credits
-
 
 All credits go to my fellow classmates and all my previous pairs for their invaluable insight.
 
